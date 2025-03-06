@@ -39,4 +39,7 @@ Hospital Management System using MySQL, Php and Bootstrap
   - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
   - Sublime Text 3.2 was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
-  
+
+  some screenshots of running project
+
+  ![Home Page]("C:\Users\shive\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 131132.png")
