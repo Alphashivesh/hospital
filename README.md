@@ -42,4 +42,4 @@ Hospital Management System using MySQL, Php and Bootstrap
 
   some screenshots of running project
 
-  ![Home Page]("C:\Users\shive\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 131132.png")
+  ![Home Page]("https://github.com/Alphashivesh/hospital/blob/main/Screenshot%202025-03-06%20130835.png?raw=true")
