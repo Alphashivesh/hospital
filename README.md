@@ -42,8 +42,8 @@ Hospital Management System using MySQL, Php and Bootstrap
 
   some screenshots of running project
 
-  ![Home Page](https://github.com/Alphashivesh/hospital/blob/main/Screenshot%202025-03-06%20130835.png?raw=true)
+  ![home](https://github.com/Alphashivesh/hospital/blob/main/Screenshot%202025-03-06%20130835.png?raw=true)
   ![home2](https://github.com/Alphashivesh/hospital/blob/main/Screenshot%202025-03-06%20130900.png?raw=true)
-  ![home2]()
-  ![home3]()
-  ![home5}()
+  ![home2](https://github.com/Alphashivesh/hospital/blob/main/Screenshot%202025-03-06%20131054.png?raw=true)
+  ![home3](https://github.com/Alphashivesh/hospital/blob/main/Screenshot%202025-03-06%20131111.png?raw=true)
+  ![home5](https://github.com/Alphashivesh/hospital/blob/main/Screenshot%202025-03-06%20131132.png?raw=true)
